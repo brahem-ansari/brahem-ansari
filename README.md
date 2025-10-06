@@ -6,10 +6,9 @@
   </ul>
 </div>
 <h1 align="center">Hi 👋, I'm brahem-ansari</h1>
-- 🌱 I’m currently learning **C / Algorithm and data structure**
+- 🌱 I’m currently learning C / Algorithm and data structure
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
